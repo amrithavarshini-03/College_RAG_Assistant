@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Vector DB (large files)
+vectorstore/
+db/
+
+# OS files
+.DS_Store
+Thumbs.db

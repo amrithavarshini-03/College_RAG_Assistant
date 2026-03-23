@@ -1,0 +1,10 @@
+langchain
+langchain-community
+chromadb
+sentence-transformers
+pypdf
+python-docx
+scikit-learn
+streamlit
+ollama
+langchain-text-splitters
